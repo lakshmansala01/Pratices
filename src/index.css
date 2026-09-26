@@ -1,0 +1,60 @@
+.expert_bg{
+  background: black;
+  color: aliceblue;
+  padding-top: 20px;
+}
+
+.years_bg{
+    background: gainsboro;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.side-image{
+    width: 350px;
+}
+.service-section {
+    background: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 60px;
+}
+.border-line{
+    border: 3px solid rgb(25, 4, 73);
+    padding: 20px;
+    text-align: center;
+}
+.service-button{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.ourproject{
+    padding: 40px;
+}
+.project_header{
+    padding-top: 30px;
+}
+
+.housing_bg{
+    background: black;
+    color: aliceblue;
+}
+.location_bg{
+    background: gainsboro;
+}
+.cilent_img{
+    padding: 70px;
+}
+.footer_bg{
+    background: black;
+    color: aliceblue;
+    padding: 50px;
+}
+.listtop{
+  margin-top: 30px;
+}
+.input-row{
+    display:flex;
+    gap: 30px;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "brand": "Apple",
+    "price": 79999,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S24",
+    "brand": "Samsung",
+    "price": 69999,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "OnePlus 12",
+    "brand": "OnePlus",
+    "price": 59999,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Pixel 8",
+    "brand": "Google",
+    "price": 54999,
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Nothing Phone 2",
+    "brand": "Nothing",
+    "price": 39999,
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "name": "Redmi Note 13",
+    "brand": "Xiaomi",
+    "price": 18999,
+    "rating": 4.3
+  }
+]
